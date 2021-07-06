@@ -1,2 +1,8 @@
-# DIO.Series
-Aplicação CRUD feita em dotNet sobre series de filmes
+# 💻 Projeto
+Aplicação CRUD sobre series de filmes
+
+## 🤖 Tecnologias e Ferramentas utilizadas:
+- .Net
+- VsCode
+
+
